@@ -1,0 +1,31 @@
+_repo: The-Christian-View-of-the-Old-Testament_31876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eiselen, Frederick Carl
+    alias: Eiselen, F. C. (Frederick Carl)
+    birthdate: 1872
+    deathdate: 1937
+    gutenberg_agent_id: '35530'
+    url: http://www.gutenberg.org/2009/agents/35530
+description: ''
+gutenberg_issued: '2010-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+tableOfContents: The New Testament view of the Old Testament -- The Old Testament
+  and modern science -- The Old Testament and modern criticism -- The Old Testament
+  and archaeology -- The Old Testament and comparative religion -- The permanent significance
+  of the Old Testament -- Index.
+title: The Christian View of the Old Testament
+url: http://www.gutenberg.org/ebooks/31876
